@@ -16,4 +16,4 @@ response = model.generate_content(
     "What's a good name for a flower shop that specializes in selling bouquets of dried flowers?"
 )
 
-print(response.text)
+print(response)
